@@ -33,6 +33,8 @@ I'm a passionate developer with expertise in Flutter and Android development. I 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)&nbsp;
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)&nbsp;
 [![Figma](https://img.shields.io/badge/Figma-F24E5E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 
 
 
